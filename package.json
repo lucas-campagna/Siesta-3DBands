@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "vue": "^2.5.21"
+  },
+  "name": "Siesta-3DBands",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucas-campagna/Siesta-3DBands.git",
+  "author": "danielpcampagna <danielprett@gmail.com>",
+  "license": "MIT"
+}
