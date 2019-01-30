@@ -2,6 +2,10 @@
 
 based on [this tutorial](https://codeburst.io/full-stack-single-page-application-with-vue-js-and-flask-b1e036315532)
 
+## Documentation
+
+Use [this article](Open Source Documentation) to create a open source documentation.
+
 ## Plots libraries options
 
 1. Graph3d documentation
