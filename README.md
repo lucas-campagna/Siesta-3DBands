@@ -4,7 +4,7 @@ based on [this tutorial](https://codeburst.io/full-stack-single-page-application
 
 ## Documentation
 
-Use [this article](Open Source Documentation) to create a open source documentation.
+Use [this article](https://dusted.codes/open-source-documentation) to create a Open Source Documentation.
 
 ## Plots libraries options
 
